@@ -1,0 +1,33 @@
+_repo: The-Street-of-Seven-Stars_1214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Often referred to as the "American Agatha Christie," Mary Roberts Rinehart
+  did much to popularize and refine the mystery genre in the United States. The Street
+  of Seven Stars follows an American musician, Harmony Wells, to Austria, where she
+  has gone to hone her violin skills. Though the dashing doctor she meets there appears
+  to want to protect her, there may be more to his motives than meets the eye.
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Violinists -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Vienna (Austria) -- Fiction'
+- !lcsh 'Americans -- Austria -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Street of Seven Stars
+url: http://www.gutenberg.org/ebooks/1214
