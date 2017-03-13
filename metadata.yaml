@@ -1,5 +1,8 @@
 _repo: The-Street-of-Seven-Stars_1214
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -13,6 +16,8 @@ description: Often referred to as the "American Agatha Christie," Mary Roberts R
   of Seven Stars follows an American musician, Harmony Wells, to Austria, where she
   has gone to hone her violin skills. Though the dashing doctor she meets there appears
   to want to protect her, there may be more to his motives than meets the eye.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1214#The-Street-of-Seven-Stars
 gutenberg_issued: '1998-02-01'
 gutenberg_type: Text
 identifiers:
